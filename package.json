@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "format:write": "npx prettier --write ."
+  }
+}
